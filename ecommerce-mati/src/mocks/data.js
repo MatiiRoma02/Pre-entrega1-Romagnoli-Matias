@@ -1,0 +1,72 @@
+export const products = [
+  {
+    id: "1",
+    name: "Producto 1",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "....",
+  },
+  {
+    id: "2",
+    name: "Producto 2",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "...",
+  },
+  {
+    id: "3",
+    name: "Producto 3",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "....",
+  },
+  {
+    id: "4",
+    name: "Producto 4",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "...",
+  },
+  {
+    id: "5",
+    name: "Producto 5",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "....",
+  },
+  {
+    id: "6",
+    name: "Producto 6",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "...",
+  },
+  {
+    id: "7",
+    name: "Producto 7",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "....",
+  },
+  {
+    id: "8",
+    name: "Producto 8",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "...",
+  },
+  {
+    id: "9",
+    name: "Producto 9",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "....",
+  },
+  {
+    id: "10",
+    name: "Producto 10",
+    quantity: 3,
+    description: "Description del producto 1",
+    category: "...",
+  }
+];
